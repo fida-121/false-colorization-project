@@ -72,18 +72,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📥 Model Download
-
-Due to GitHub file size limits, the trained model is not included in this repository.
-
-Download it from the link below:
-
-👉 ## 📥 Model Download
-
-Due to GitHub file size limits, the trained model is not included in this repository.
-
-Download it from the link below:
-
 👉 ## 📥 Model Download
 
 Due to GitHub file size limits, the trained model is not included in this repository.
@@ -91,14 +79,6 @@ Due to GitHub file size limits, the trained model is not included in this reposi
 Download it from the link below:
 
 👉 https://drive.google.com/file/d/1KKetd41ADCXG4TLaJCbajIQCajrgrws8/view?usp=drive_link
-
-After downloading, place the file in the following directory:
-
-models/colorization_release_v2.caffemodel
-
-After downloading, place the file in the following directory:
-
-models/colorization_release_v2.caffemodel
 
 After downloading, place the file in the following directory:
 
