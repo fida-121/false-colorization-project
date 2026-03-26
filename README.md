@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 False Coloration of Black & White Images
 
 ## 📌 Overview
@@ -145,3 +146,6 @@ Course: Signal Processing (MCT-244L)
 ## 📄 License
 
 This project is developed for educational purposes only.
+=======
+# false-colorization-project
+>>>>>>> 3e907309db67d241360861d76de14627782037f1
